@@ -9,7 +9,7 @@ export function Hero() {
           <div className="space-y-8">
             <div className="space-y-4">
               <h1 className="text-balance text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl">
-                Premium Auto Care & Repair
+                Premium Automotive Care & Repair
               </h1>
               <p className="text-pretty text-lg text-foreground/70">
                 Expert automotive service with 20+ years of experience. From routine maintenance to complex repairs, we
@@ -42,6 +42,10 @@ export function Hero() {
               <div>
                 <p className="text-2xl font-bold text-accent">24/7</p>
                 <p className="text-sm text-foreground/60">Emergency Service</p>
+              </div>
+              <div>
+                <p className="text-2xl font-bold text-accent">PAN India</p>
+                <p className="text-sm text-foreground/60">All over India Service</p>
               </div>
             </div>
           </div>

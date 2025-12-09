@@ -34,7 +34,7 @@ export function ContactCTA() {
               </div>
               <div>
                 <p className="font-semibold text-background">Phone</p>
-                <p className="text-background/80">(555) 123-4567</p>
+                <p className="text-background/80">(+91)9860584782</p>
               </div>
             </div>
 
@@ -44,7 +44,7 @@ export function ContactCTA() {
               </div>
               <div>
                 <p className="font-semibold text-background">Email</p>
-                <p className="text-background/80">service@progarage.com</p>
+                <p className="text-background/80">services@atulautomechanicgarage.com</p>
               </div>
             </div>
 
@@ -54,7 +54,7 @@ export function ContactCTA() {
               </div>
               <div>
                 <p className="font-semibold text-background">Location</p>
-                <p className="text-background/80">123 Auto Drive, Motor City, CA 90210</p>
+                <p className="text-background/80">Atul Auto Mechanic Garage, near Bhigwan Bus Stand, Bhigwan, 413130</p>
               </div>
             </div>
           </div>

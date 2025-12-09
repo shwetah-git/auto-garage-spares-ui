@@ -9,10 +9,16 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent">
                 <span className="text-sm font-bold text-accent-foreground">⚙️</span>
               </div>
-              <span className="font-bold text-foreground">Pro Garage</span>
+              <span className="font-bold text-foreground">Atul Auto Mechanic Garage</span>
             </div>
             <p className="text-sm text-foreground/60">
               Your trusted partner for premium automotive service and repair.
+            </p>
+            <p className="text-sm text-foreground/60">
+              Partners with VALVOLINE.
+            </p>
+            <p className="text-sm text-foreground/60">
+              Authorized TATA Motors spare parts dealer.
             </p>
           </div>
 
@@ -32,12 +38,12 @@ export function Footer() {
               </li>
               <li>
                 <a href="#" className="text-foreground/60 hover:text-foreground transition-colors">
-                  Repairs
+                  Heavy Diesel Vehicle Repairs
                 </a>
               </li>
               <li>
                 <a href="#" className="text-foreground/60 hover:text-foreground transition-colors">
-                  Detailing
+                  Heavy Duty Wheel Alignment
                 </a>
               </li>
             </ul>

@@ -34,7 +34,7 @@ export function Features() {
       <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <div className="mb-12 space-y-4">
           <h2 className="text-balance text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
-            Why Choose Pro Garage
+            Why Choose our Garage
           </h2>
           <p className="text-pretty max-w-2xl text-lg text-foreground/60">
             Trusted by thousands of drivers for reliable, professional automotive service

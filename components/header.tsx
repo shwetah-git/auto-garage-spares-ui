@@ -16,7 +16,7 @@ export function Header() {
             <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
               <span className="text-lg font-bold text-accent-foreground">⚙️</span>
             </div>
-            <span className="hidden text-xl font-bold text-foreground sm:inline">Pro Garage</span>
+            <span className="hidden text-xl font-bold text-foreground sm:inline">Atul Auto Mechanic Garage</span>
           </div>
 
           {/* Navigation - Desktop */}
@@ -26,6 +26,18 @@ export function Header() {
               className="text-sm font-medium text-foreground/70 hover:text-foreground transition-colors"
             >
               Services
+            </a>
+            <a
+              href="#search-part"
+              className="text-sm font-medium text-foreground/70 hover:text-foreground transition-colors"
+            >
+              Spares
+            </a>
+            <a
+              href="#trustedPartners"
+              className="text-sm font-medium text-foreground/70 hover:text-foreground transition-colors"
+            >
+              Trusted partners
             </a>
             <a
               href="#features"
@@ -60,6 +72,18 @@ export function Header() {
               className="text-sm font-medium text-foreground/70 hover:text-foreground transition-colors"
             >
               Services
+            </a>
+            <a
+              href="#search-part"
+              className="text-sm font-medium text-foreground/70 hover:text-foreground transition-colors"
+            >
+              Spares
+            </a>
+            <a
+              href="#trustedPartners"
+              className="text-sm font-medium text-foreground/70 hover:text-foreground transition-colors"
+            >
+              Trusted partners
             </a>
             <a
               href="#features"
